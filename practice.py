@@ -19,7 +19,7 @@ def reverseNum(num:int) -> int:
     return value
 
 
-# print(reverseNum(109012))
+# print(reverseNum(1012))
 
 # for x in [12, -12, 120, 1200, 12001]:
 #     print(reverseNum(x))
@@ -123,6 +123,6 @@ def factorial(x:int) -> int:
     else:
         return x*factorial(x-1)
     
-# for x in [5, 7, 10, 12, 0, -3]:
+# for x in [5, 7, 11, 12, 0, -3]:
 #     print(f"{x}! = {factorial(x=x)}")
 
