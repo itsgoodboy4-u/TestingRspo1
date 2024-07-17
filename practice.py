@@ -19,7 +19,7 @@ def reverseNum(num:int) -> int:
     return value
 
 
-# print(reverseNum(10900))
+# print(reverseNum(109012))
 
 # for x in [12, -12, 120, 1200, 12001]:
 #     print(reverseNum(x))
